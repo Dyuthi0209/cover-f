@@ -1,0 +1,42 @@
+html, body {
+  margin: 0px;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 5px solid black;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+
+p{
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.i1{
+  position:absolute;
+  z-index: 2;
+  top:30px;
+  margin-top:200px;
+  margin-left:535px;
+  
+}
+.i2{
+  position:absolute;
+  z-index: 3;
+  top:30px;
+  margin-top:300px;
+  margin-left:535px;
+}
+
+.i3{
+  position:absolute;
+  width: 6.5cm;
+    z-index: 3;
+  top:30px;
+  margin-top:369px;
+  margin-left:529px;
+}
